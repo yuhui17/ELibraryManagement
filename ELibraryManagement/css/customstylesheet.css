@@ -1,0 +1,17 @@
+﻿
+.footerlinks{
+    color:white;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover{
+    color:yellow;
+}
+
+#footer1{
+    background-color:crimson;
+}
+
+#footer2{
+    background-color:darkred;
+}
