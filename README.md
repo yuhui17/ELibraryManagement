@@ -20,4 +20,6 @@ Clone the repository
 Open the project in Visual Studio
 Create a new MS SQL Database and run the scripts in the "Database" folder to create the necessary tables
 Update the connection string in the Web.config file to point to your database
+Import the Database elibraryDB, How to import databse: https://www.youtube.com/watch?v=XLzV_gagkZc [import&export database tutorial]
 Build and run the project
+
